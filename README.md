@@ -1,5 +1,5 @@
-<style>
-  a { color: #ff7c7c }  
+<style>  
+  a { color: #ff7c7c }    
 </style>
 
 ### 안녕하세요 👋
